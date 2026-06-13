@@ -1,0 +1,29 @@
+name: syncflow
+description: A Flutter Offline Sync Package
+version: 0.0.1
+
+# environment:
+  # sdk: ^3.11.1
+  # flutter: ">=1.17.0"
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  dio: ^5.4.3
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  connectivity_plus: ^6.1.5
+  retry: ^3.1.2
+  uuid: ^4.5.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+
+flutter:
