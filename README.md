@@ -24,14 +24,6 @@ await SyncManager.request(
   url: 'https://api.example.com/users',
 );
 
-## Screenshots
-
-(Add screenshots)
-
-## Demo GIF
-
-(Add GIF)
-
 ## License
 
 MIT
