@@ -1,6 +1,12 @@
 name: syncflow
-description: A Flutter Offline Sync Package
+description: Offline Sync + API Retry + Cache Manager for Flutter
 version: 0.0.1
+
+homepage: https://github.com/BMariSelvam/syncflow
+
+repository: https://github.com/BMariSelvam/syncflow
+
+issue_tracker: https://github.com/BMariSelvam/syncflow/issues
 
 # environment:
   # sdk: ^3.11.1

@@ -1,13 +1,13 @@
 # Changelog
 
-## 1.0.0
+## 0.0.1
 
-Initial Release
+Initial release of SyncFlow.
 
-## Features
+### Features
 
-✅ Offline Request Queue
-✅ Auto Retry
-✅ Cache Manager
-✅ Connectivity Tracking
-✅ Auto Sync
+* Offline Request Queue
+* Automatic API Retry
+* Connectivity Monitoring
+* Local Cache Management
+* Auto Synchronization
